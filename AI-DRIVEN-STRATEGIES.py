@@ -9,7 +9,7 @@ st.set_page_config(page_title="AI Solutions Dashboard", layout="wide", initial_s
 # Header with branding
 st.title("Cerenti AI Solutions Dashboard")
 st.markdown("""
-Welcome, Cerneti team! This interactive dashboard showcases how AI can transform your operations:
+Welcome, Cerenti team! This interactive dashboard showcases how AI can transform your operations:
 - **Dynamic Pricing**: Optimize revenue with real-time pricing.
 - **24/7 Chatbots**: Enhance customer service while cutting costs.
 - **Predictive Maintenance**: Reduce downtime with proactive asset care.
