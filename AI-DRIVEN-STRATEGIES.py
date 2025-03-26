@@ -16,7 +16,7 @@ Welcome, Cerneti team! This interactive dashboard showcases how AI can transform
 """)
 
 # Sidebar for global settings
-st.sidebar.title("Cerneti Control Panel")
+st.sidebar.title("Cerenti Control Panel")
 currency = st.sidebar.selectbox("Currency", ["USD ($)", "EUR (€)", "GBP (£)"], index=0)
 business_unit = st.sidebar.selectbox("Business Unit", ["Hotel Operations", "Taxi Fleet", "Facility Management"], index=0)
 
