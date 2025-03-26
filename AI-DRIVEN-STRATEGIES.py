@@ -4,7 +4,7 @@ import numpy as np
 from datetime import datetime, timedelta
 
 # Set page configuration
-st.set_page_config(page_title="Cerneti AI Solutions Dashboard", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="Cerenti AI Solutions Dashboard", layout="wide", initial_sidebar_state="expanded")
 
 # Header with branding
 st.title("Cerneti AI Solutions Dashboard")
@@ -136,4 +136,4 @@ st.write("Input your real data to see tailored results. Contact us to integrate 
 st.button("Request a Demo")
 
 # Footer
-st.write(f"Built for Cereneti by [Your Name] | Interactive Demo | March 26, 2025")
+st.write(f"Built for Cerenti by [Your Name] | Interactive Demo | March 26, 2025")
