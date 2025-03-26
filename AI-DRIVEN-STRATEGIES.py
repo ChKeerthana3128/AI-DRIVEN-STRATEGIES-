@@ -4,10 +4,10 @@ import numpy as np
 from datetime import datetime, timedelta
 
 # Set page configuration
-st.set_page_config(page_title="Cerenti AI Solutions Dashboard", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="AI Solutions Dashboard", layout="wide", initial_sidebar_state="expanded")
 
 # Header with branding
-st.title("Cerneti AI Solutions Dashboard")
+st.title("Cerenti AI Solutions Dashboard")
 st.markdown("""
 Welcome, Cerneti team! This interactive dashboard showcases how AI can transform your operations:
 - **Dynamic Pricing**: Optimize revenue with real-time pricing.
